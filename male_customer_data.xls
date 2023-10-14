@@ -1,0 +1,520 @@
+Age,Gender,Location,Policy_Type,Claim_History,Vehicle_Type,Marital_Status,Annual_Income,Dependents,CLV,Policy_Payment,Cluster
+18,Male,Chicago,Premium,10,Sedan,Married,62593,4,26418,600,1
+61,Male,Miami,Standard,6,Truck,Divorced,114217,3,32135,600,0
+36,Male,Houston,Standard,2,Motorcycle,Single,57648,1,42168,600,2
+55,Male,Los Angeles,Premium,6,Motorcycle,Divorced,34483,5,11700,342,1
+53,Male,San Francisco,Basic,8,SUV,Married,118965,0,42441,600,0
+58,Male,San Francisco,Basic,4,Motorcycle,Widowed,50265,0,30534,600,2
+61,Male,Austin,Premium,2,Truck,Divorced,69516,0,11884,600,2
+33,Male,Austin,Basic,9,Sedan,Married,31625,1,9399,600,2
+62,Male,Houston,Basic,5,Sedan,Single,95899,2,16104,475,0
+50,Male,San Francisco,Standard,7,Truck,Divorced,36972,5,7911,600,1
+19,Male,Chicago,Basic,10,Truck,Single,113546,1,8054,600,0
+33,Male,Austin,Premium,3,Truck,Married,31659,2,38468,274,2
+30,Male,Orlando,Standard,9,Sedan,Single,49935,5,36273,600,1
+18,Male,Austin,Standard,6,SUV,Married,41494,1,28639,600,2
+65,Male,Atlanta,Premium,9,Motorcycle,Divorced,87943,3,33152,600,0
+65,Male,Miami,Standard,10,Truck,Married,74288,3,38670,600,2
+26,Male,Miami,Basic,10,Truck,Widowed,82152,5,20138,600,1
+50,Male,Orlando,Standard,4,Sedan,Married,59236,4,6291,565,1
+55,Male,New York,Standard,3,Truck,Divorced,117193,3,23965,600,0
+34,Male,New York,Premium,2,Motorcycle,Single,81128,1,44927,600,0
+36,Male,Houston,Basic,5,SUV,Divorced,32880,4,20667,600,1
+33,Male,Chicago,Premium,10,SUV,Married,58172,5,18373,405,1
+23,Male,New York,Standard,4,SUV,Married,116762,0,38251,476,0
+24,Male,New York,Standard,5,SUV,Widowed,63138,3,32077,378,1
+52,Male,Miami,Basic,6,Sedan,Single,83924,5,12159,563,1
+48,Male,Austin,Basic,4,SUV,Single,51698,2,13308,248,2
+63,Male,Austin,Basic,6,Sedan,Married,69164,2,5764,600,2
+65,Male,Chicago,Basic,5,Sedan,Married,115241,5,13931,600,1
+26,Male,Orlando,Basic,6,Sedan,Widowed,116387,0,31240,600,0
+48,Male,Houston,Premium,3,Motorcycle,Divorced,64797,3,26352,597,1
+63,Male,New York,Premium,3,Sedan,Single,75875,3,23133,600,2
+24,Male,Orlando,Premium,3,SUV,Divorced,39872,4,16020,600,1
+43,Male,Chicago,Standard,10,SUV,Widowed,106195,1,44918,528,0
+39,Male,Houston,Premium,1,SUV,Married,102086,5,19088,600,1
+33,Male,Houston,Standard,8,Sedan,Single,92196,4,35614,600,1
+57,Male,Miami,Premium,7,Truck,Divorced,41345,4,43225,600,2
+41,Male,Houston,Premium,5,Truck,Single,112294,3,20783,600,0
+65,Male,Cleveland,Standard,6,SUV,Divorced,79319,5,47073,260,1
+65,Male,Chicago,Standard,8,SUV,Married,91988,3,14781,600,0
+65,Male,Cleveland,Premium,8,Truck,Married,118088,0,5069,437,0
+64,Male,Austin,Standard,1,SUV,Married,62384,3,21666,484,2
+52,Male,Atlanta,Standard,5,Truck,Divorced,84746,1,31741,600,0
+50,Male,New York,Basic,2,Sedan,Divorced,113691,4,31187,600,0
+65,Male,New York,Standard,10,Sedan,Single,35308,3,17793,600,2
+26,Male,Atlanta,Standard,8,SUV,Single,58372,2,8420,240,2
+33,Male,Austin,Basic,6,Sedan,Widowed,106028,2,16572,600,0
+27,Male,Chicago,Basic,2,Sedan,Widowed,64476,4,24901,600,1
+63,Male,Miami,Basic,4,Sedan,Divorced,114676,3,15458,233,0
+27,Male,Orlando,Standard,2,Motorcycle,Single,91530,0,5855,600,0
+24,Male,New York,Premium,1,SUV,Divorced,61624,5,20456,600,1
+21,Male,New York,Premium,3,Motorcycle,Married,84934,2,16268,600,0
+58,Male,Houston,Standard,5,Sedan,Divorced,115720,0,34043,600,0
+43,Male,Houston,Basic,8,SUV,Married,34540,5,27897,600,1
+63,Male,Austin,Basic,1,SUV,Divorced,71637,0,20358,600,2
+21,Male,San Francisco,Basic,4,Truck,Widowed,108308,3,7677,600,0
+40,Male,Austin,Standard,7,Motorcycle,Divorced,80539,3,43247,600,1
+27,Male,Orlando,Basic,4,SUV,Married,48258,2,46968,600,2
+36,Male,New York,Basic,3,Motorcycle,Married,60213,3,35524,390,1
+38,Male,San Francisco,Standard,2,SUV,Divorced,44371,3,14206,600,2
+36,Male,San Francisco,Premium,4,Motorcycle,Widowed,100579,0,24392,600,0
+50,Male,Atlanta,Premium,10,Motorcycle,Single,89629,3,5583,600,0
+37,Male,Los Angeles,Standard,9,SUV,Single,71156,4,32188,600,1
+63,Male,Austin,Premium,9,Truck,Widowed,87595,0,49089,600,0
+28,Male,Cleveland,Premium,8,Motorcycle,Single,61290,2,18532,600,2
+40,Male,Cleveland,Basic,6,Motorcycle,Married,89024,5,19402,272,1
+51,Male,Atlanta,Standard,0,SUV,Widowed,42062,3,26659,250,2
+57,Male,Austin,Standard,5,Sedan,Single,42081,1,28003,441,2
+21,Male,Atlanta,Basic,0,Motorcycle,Married,113028,4,7636,600,1
+53,Male,Austin,Premium,3,Sedan,Single,113425,2,10911,600,0
+40,Male,New York,Basic,6,Sedan,Divorced,88129,0,11751,600,0
+62,Male,Houston,Basic,2,Truck,Divorced,43147,2,24205,215,2
+40,Male,Chicago,Basic,5,Motorcycle,Widowed,70493,4,23759,360,1
+61,Male,New York,Basic,3,Sedan,Married,42334,1,40964,338,2
+18,Male,Miami,Premium,3,SUV,Divorced,97403,0,19661,600,0
+26,Male,Chicago,Premium,7,SUV,Married,104757,2,11795,600,0
+26,Male,Austin,Basic,1,Sedan,Widowed,73175,5,15504,600,1
+58,Male,Orlando,Basic,9,SUV,Single,98776,0,49341,600,0
+65,Male,Miami,Standard,7,Motorcycle,Married,35050,2,44206,277,2
+32,Male,Atlanta,Standard,9,SUV,Widowed,117638,1,5289,296,0
+37,Male,San Francisco,Standard,6,Motorcycle,Divorced,87431,0,30217,497,0
+27,Male,Miami,Standard,5,Motorcycle,Married,54125,3,10356,505,1
+45,Male,Miami,Standard,7,SUV,Widowed,51028,2,16358,600,2
+23,Male,Chicago,Basic,5,Sedan,Divorced,48246,0,31274,259,2
+61,Male,Houston,Basic,2,Motorcycle,Divorced,70510,2,43051,600,2
+57,Male,Cleveland,Premium,9,SUV,Married,52669,0,12669,347,2
+57,Male,Orlando,Standard,3,Truck,Widowed,38056,1,26750,274,2
+63,Male,Atlanta,Basic,3,Sedan,Divorced,104312,2,26508,544,0
+18,Male,San Francisco,Basic,6,Truck,Divorced,108161,3,45646,600,0
+61,Male,Houston,Premium,10,Sedan,Widowed,74028,1,35694,600,2
+25,Male,Orlando,Standard,10,SUV,Widowed,104695,4,32816,477,1
+33,Male,Atlanta,Basic,7,Truck,Married,90912,3,15395,600,1
+55,Male,Cleveland,Basic,6,Sedan,Divorced,116452,0,37926,600,0
+54,Male,Orlando,Basic,9,Motorcycle,Widowed,52274,0,49748,600,2
+32,Male,Miami,Premium,8,Sedan,Divorced,92506,2,45027,600,0
+60,Male,New York,Basic,10,SUV,Divorced,100052,1,21228,389,0
+23,Male,Chicago,Standard,0,Sedan,Widowed,83283,3,37908,600,1
+43,Male,Chicago,Standard,0,Truck,Married,38435,1,36678,600,2
+45,Male,Cleveland,Standard,4,Truck,Married,97813,3,34855,600,0
+43,Male,Houston,Premium,2,Truck,Divorced,70912,3,36974,503,1
+57,Male,Chicago,Standard,9,SUV,Divorced,90950,4,42725,393,1
+58,Male,Miami,Basic,4,Truck,Divorced,113833,5,35843,600,1
+50,Male,Miami,Basic,2,Motorcycle,Widowed,75546,0,15042,600,2
+54,Male,Los Angeles,Premium,2,Motorcycle,Married,54287,1,23660,600,2
+46,Male,San Francisco,Premium,1,Truck,Married,77597,0,21896,233,0
+47,Male,Atlanta,Basic,6,Sedan,Single,117608,2,16121,600,0
+36,Male,Miami,Premium,0,SUV,Widowed,117523,2,28135,546,0
+50,Male,New York,Premium,4,Truck,Single,87010,0,20887,428,0
+18,Male,Chicago,Standard,10,Sedan,Divorced,93374,3,30876,330,1
+37,Male,Houston,Basic,1,Motorcycle,Single,56139,3,29181,600,1
+32,Male,Cleveland,Standard,5,Truck,Married,57921,1,46430,600,2
+27,Male,Houston,Standard,6,SUV,Single,100470,1,11322,600,0
+57,Male,New York,Basic,5,Truck,Divorced,100145,2,33137,600,0
+65,Male,Houston,Basic,9,SUV,Single,115555,3,34586,600,0
+31,Male,Cleveland,Basic,4,Motorcycle,Divorced,106082,3,44111,600,0
+61,Male,Los Angeles,Premium,10,Truck,Divorced,64721,5,21948,600,1
+46,Male,Los Angeles,Premium,3,Motorcycle,Married,111501,0,33685,312,0
+19,Male,San Francisco,Premium,7,Sedan,Divorced,95348,1,45967,533,0
+64,Male,Austin,Standard,8,Sedan,Divorced,47616,0,26453,600,2
+30,Male,Cleveland,Premium,2,SUV,Widowed,109769,0,47334,435,0
+34,Male,Cleveland,Basic,2,Sedan,Widowed,117855,2,30337,334,0
+35,Male,Orlando,Premium,10,SUV,Single,65489,2,13467,550,2
+60,Male,New York,Premium,9,Motorcycle,Divorced,97866,3,28506,600,0
+45,Male,Houston,Premium,4,Truck,Widowed,30933,5,9613,600,1
+60,Male,Austin,Standard,4,Motorcycle,Divorced,45832,5,49318,317,1
+33,Male,Los Angeles,Basic,5,Motorcycle,Single,94584,1,46486,600,0
+49,Male,Los Angeles,Premium,6,Truck,Married,96054,0,49033,368,0
+51,Male,San Francisco,Basic,2,Truck,Divorced,52320,2,49411,600,2
+32,Male,Miami,Premium,4,Sedan,Single,95289,2,37540,600,0
+21,Male,Los Angeles,Premium,9,Truck,Widowed,96825,4,30531,600,1
+46,Male,New York,Standard,8,Motorcycle,Married,79190,2,5466,600,0
+61,Male,Orlando,Premium,6,SUV,Divorced,67632,0,7744,600,2
+20,Male,Cleveland,Standard,9,SUV,Single,72688,3,33717,600,1
+59,Male,Houston,Basic,0,SUV,Single,53642,3,42356,383,2
+28,Male,Houston,Premium,4,SUV,Widowed,92926,4,11957,201,1
+60,Male,Chicago,Standard,9,Truck,Single,62899,1,14559,600,2
+20,Male,Orlando,Premium,6,SUV,Married,75891,1,12009,600,0
+43,Male,San Francisco,Basic,3,SUV,Married,82055,5,38765,600,1
+57,Male,New York,Standard,1,SUV,Widowed,115120,5,38704,359,1
+41,Male,Miami,Standard,5,Sedan,Single,92707,3,29333,600,0
+65,Male,Atlanta,Standard,6,Sedan,Single,69002,0,9979,536,2
+25,Male,New York,Basic,1,SUV,Married,94603,2,42974,600,0
+59,Male,New York,Premium,9,Sedan,Widowed,47614,4,18971,600,2
+30,Male,Orlando,Basic,8,SUV,Married,74769,0,31583,303,0
+39,Male,Atlanta,Basic,9,Truck,Single,99751,2,29376,600,0
+53,Male,Atlanta,Basic,1,SUV,Widowed,67750,1,46004,600,2
+65,Male,Houston,Basic,5,Motorcycle,Single,35771,4,48495,600,2
+34,Male,Orlando,Standard,6,Truck,Single,50323,5,37697,600,1
+34,Male,Houston,Basic,7,SUV,Widowed,43311,5,41868,600,1
+25,Male,Orlando,Premium,6,Sedan,Single,72063,2,24026,600,1
+64,Male,Miami,Premium,4,Sedan,Widowed,74739,0,25966,482,2
+47,Male,Miami,Standard,10,Sedan,Divorced,44393,0,22925,578,2
+65,Male,Miami,Basic,5,Sedan,Single,97632,3,28637,404,0
+24,Male,Chicago,Basic,1,Truck,Married,118078,1,9370,600,0
+58,Male,San Francisco,Premium,8,Sedan,Single,56042,5,20916,471,1
+25,Male,San Francisco,Premium,10,Truck,Married,55149,1,10329,600,2
+59,Male,Orlando,Basic,8,Motorcycle,Married,76564,0,11647,223,2
+32,Male,New York,Premium,1,Truck,Single,30916,1,14070,600,2
+32,Male,Miami,Premium,6,Motorcycle,Widowed,38879,0,26697,600,2
+32,Male,San Francisco,Basic,5,Sedan,Single,104512,5,39550,495,1
+20,Male,New York,Premium,5,Sedan,Single,113911,0,14950,600,0
+21,Male,New York,Premium,8,Truck,Widowed,70998,3,37732,422,1
+20,Male,Miami,Premium,1,SUV,Divorced,88697,5,20907,558,1
+20,Male,New York,Premium,6,Motorcycle,Married,104698,4,38555,211,1
+42,Male,San Francisco,Standard,5,Motorcycle,Widowed,71536,1,46172,600,2
+52,Male,Atlanta,Standard,10,SUV,Married,114465,1,29898,566,0
+40,Male,Austin,Basic,0,Sedan,Married,114314,3,14992,600,0
+28,Male,San Francisco,Standard,2,Motorcycle,Widowed,110540,1,46753,600,0
+38,Male,Los Angeles,Standard,4,Motorcycle,Single,51935,4,19725,600,1
+62,Male,Chicago,Premium,7,Sedan,Divorced,34649,1,40030,600,2
+38,Male,Austin,Premium,6,Truck,Married,92303,5,46277,600,1
+61,Male,Orlando,Basic,2,Motorcycle,Married,94362,0,26196,600,0
+44,Male,Austin,Standard,0,Truck,Single,75186,5,32473,600,1
+33,Male,Houston,Standard,5,Sedan,Single,31997,3,24485,600,2
+36,Male,Los Angeles,Basic,6,Truck,Single,105722,3,45681,600,0
+58,Male,Orlando,Standard,0,Truck,Divorced,89692,4,7937,600,1
+27,Male,Miami,Premium,8,Truck,Divorced,36468,2,14527,600,2
+31,Male,Houston,Basic,9,SUV,Widowed,85535,4,19450,600,1
+33,Male,Houston,Premium,2,SUV,Single,36029,5,5219,449,1
+32,Male,Atlanta,Premium,6,SUV,Single,99099,0,31861,600,0
+35,Male,Los Angeles,Standard,2,Sedan,Single,95194,4,22630,204,1
+63,Male,Atlanta,Standard,0,Truck,Married,117201,1,6615,562,0
+19,Male,Atlanta,Basic,5,Motorcycle,Single,94852,4,40831,600,1
+24,Male,Orlando,Basic,9,Sedan,Divorced,77511,4,25880,600,1
+51,Male,Austin,Premium,10,Motorcycle,Divorced,48723,1,37044,600,2
+51,Male,Orlando,Premium,6,Motorcycle,Widowed,35760,3,24761,600,2
+59,Male,Austin,Standard,10,Truck,Single,107114,3,22652,600,0
+36,Male,Los Angeles,Basic,9,Motorcycle,Divorced,104161,5,44452,600,1
+42,Male,Miami,Basic,6,Sedan,Widowed,31665,3,47286,600,2
+60,Male,Orlando,Standard,4,Truck,Divorced,36095,2,7567,574,2
+65,Male,Houston,Premium,8,Truck,Widowed,60939,2,43849,600,2
+26,Male,Los Angeles,Standard,0,Motorcycle,Single,35367,4,18927,286,1
+23,Male,Houston,Standard,9,Truck,Widowed,41454,2,27646,600,2
+26,Male,Atlanta,Premium,5,SUV,Married,89358,4,29491,600,1
+60,Male,Houston,Standard,0,SUV,Married,80718,1,46781,600,2
+37,Male,New York,Basic,6,Motorcycle,Divorced,83332,0,45434,600,0
+49,Male,Los Angeles,Standard,4,Sedan,Single,50612,3,45366,600,2
+30,Male,Cleveland,Basic,6,Sedan,Single,46339,2,47806,348,2
+29,Male,Atlanta,Basic,6,Motorcycle,Divorced,51524,2,37152,600,2
+36,Male,New York,Basic,4,SUV,Divorced,96226,3,17070,600,0
+32,Male,Houston,Basic,10,Motorcycle,Single,112459,0,42527,600,0
+58,Male,San Francisco,Premium,4,Sedan,Divorced,56349,2,24123,600,2
+34,Male,Cleveland,Standard,10,Sedan,Divorced,100782,1,21158,600,0
+25,Male,Orlando,Basic,10,Motorcycle,Married,119149,4,41287,600,1
+32,Male,Chicago,Standard,2,SUV,Divorced,34729,1,20406,600,2
+50,Male,San Francisco,Standard,10,Truck,Widowed,106122,2,46488,600,0
+25,Male,Miami,Premium,9,Motorcycle,Divorced,46787,1,26913,600,2
+63,Male,Atlanta,Premium,1,Truck,Married,61353,3,49219,600,2
+60,Male,Miami,Basic,6,Truck,Divorced,94628,0,31634,600,0
+22,Male,Miami,Standard,9,Sedan,Widowed,78133,1,10897,318,0
+51,Male,Cleveland,Basic,4,Motorcycle,Divorced,93223,0,42674,600,0
+61,Male,Miami,Standard,1,Motorcycle,Single,66223,0,49134,600,2
+34,Male,Austin,Standard,7,Motorcycle,Widowed,108186,1,38093,600,0
+28,Male,Chicago,Premium,10,Truck,Single,104697,4,29569,202,1
+55,Male,Chicago,Basic,2,Motorcycle,Married,56091,5,22978,600,1
+49,Male,Los Angeles,Basic,7,Motorcycle,Single,44419,0,8912,600,2
+51,Male,Los Angeles,Basic,8,Sedan,Divorced,112334,2,45277,600,0
+24,Male,San Francisco,Standard,9,Motorcycle,Divorced,45600,0,26707,600,2
+28,Male,Houston,Basic,3,Truck,Widowed,52531,4,36160,600,1
+28,Male,Houston,Standard,7,SUV,Widowed,76347,2,14483,253,0
+60,Male,Houston,Basic,7,Truck,Single,45383,3,49503,411,2
+49,Male,Cleveland,Premium,0,Motorcycle,Divorced,101188,2,46348,600,0
+50,Male,Chicago,Standard,0,Truck,Widowed,48231,2,43318,249,2
+64,Male,San Francisco,Basic,4,Sedan,Single,80669,2,14745,600,2
+55,Male,Miami,Premium,6,Sedan,Married,76247,1,47355,474,2
+48,Male,Miami,Premium,9,Sedan,Single,116027,5,42731,334,1
+32,Male,Austin,Premium,2,Truck,Widowed,86610,1,16063,356,0
+33,Male,New York,Premium,9,SUV,Married,65953,5,46591,600,1
+25,Male,Austin,Basic,1,Motorcycle,Widowed,81132,5,32280,407,1
+51,Male,Los Angeles,Basic,7,Truck,Divorced,92269,1,41554,600,0
+54,Male,Houston,Standard,0,Motorcycle,Divorced,86280,4,28522,600,1
+48,Male,Orlando,Basic,4,SUV,Divorced,108386,5,36531,600,1
+53,Male,Chicago,Premium,0,Truck,Widowed,80447,0,46003,600,2
+61,Male,San Francisco,Basic,8,Truck,Widowed,76969,2,34945,600,2
+45,Male,Chicago,Basic,3,Sedan,Married,51049,4,15999,452,1
+37,Male,New York,Premium,4,Truck,Single,79967,0,11629,600,0
+23,Male,Chicago,Basic,7,SUV,Widowed,116042,1,27336,504,0
+65,Male,Cleveland,Premium,5,Sedan,Widowed,86715,1,48943,600,0
+59,Male,New York,Standard,6,Sedan,Married,77489,1,46181,600,2
+34,Male,Cleveland,Basic,2,Sedan,Single,81091,5,32514,600,1
+39,Male,Cleveland,Premium,1,SUV,Divorced,87515,4,20515,600,1
+34,Male,Cleveland,Standard,2,SUV,Married,66279,1,27139,600,2
+20,Male,Miami,Standard,2,SUV,Single,51324,4,48273,600,1
+59,Male,San Francisco,Basic,9,Truck,Divorced,51530,3,46596,233,2
+36,Male,San Francisco,Standard,6,SUV,Single,91883,0,44230,600,0
+30,Male,Austin,Basic,1,Motorcycle,Single,94391,4,45759,470,1
+54,Male,Chicago,Standard,6,Truck,Divorced,42742,0,28699,600,2
+21,Male,San Francisco,Premium,4,Truck,Single,60114,5,29821,600,1
+45,Male,New York,Standard,3,SUV,Single,85677,0,46787,316,0
+33,Male,Austin,Premium,6,Truck,Divorced,89806,0,19810,209,0
+20,Male,Chicago,Premium,6,Sedan,Single,36990,5,34030,600,1
+24,Male,Los Angeles,Premium,7,SUV,Widowed,86631,2,39348,600,0
+32,Male,Orlando,Basic,10,SUV,Widowed,104509,2,43296,600,0
+19,Male,Miami,Standard,3,Motorcycle,Single,112277,5,14371,600,1
+20,Male,Atlanta,Standard,3,Sedan,Widowed,57298,2,48892,600,1
+57,Male,Cleveland,Standard,6,Motorcycle,Married,87206,4,17610,424,1
+35,Male,Miami,Basic,6,Motorcycle,Divorced,100648,4,32776,474,1
+59,Male,Houston,Standard,7,Sedan,Widowed,99731,5,38220,600,1
+64,Male,Houston,Premium,10,Truck,Divorced,94069,1,16762,600,0
+61,Male,San Francisco,Standard,5,SUV,Single,106391,3,16788,600,0
+33,Male,Atlanta,Standard,10,Sedan,Married,57816,0,8621,600,2
+54,Male,Miami,Basic,9,SUV,Single,45084,5,13190,283,1
+30,Male,San Francisco,Standard,8,Truck,Married,113176,1,31318,600,0
+45,Male,Austin,Standard,8,Truck,Married,55855,1,39156,600,2
+37,Male,Miami,Premium,3,SUV,Married,83502,4,13765,376,1
+39,Male,New York,Premium,1,SUV,Divorced,74258,3,33431,600,1
+64,Male,Los Angeles,Standard,3,Sedan,Single,65491,4,23974,600,1
+47,Male,Atlanta,Standard,1,SUV,Single,81194,3,30935,600,1
+22,Male,Austin,Standard,8,Motorcycle,Widowed,80945,2,28961,600,0
+57,Male,Atlanta,Basic,9,Motorcycle,Divorced,79731,1,34954,600,2
+22,Male,Atlanta,Premium,9,Truck,Married,77854,2,45124,600,0
+42,Male,Los Angeles,Premium,6,Sedan,Widowed,60272,1,42531,600,2
+41,Male,Austin,Standard,10,SUV,Widowed,33919,1,48044,537,2
+62,Male,Houston,Standard,9,SUV,Married,86807,1,28143,600,0
+52,Male,Los Angeles,Premium,8,Motorcycle,Divorced,45776,5,29303,600,1
+41,Male,New York,Basic,2,Truck,Married,31728,0,34201,600,2
+46,Male,Los Angeles,Standard,7,Truck,Widowed,47905,3,24573,600,2
+51,Male,Austin,Standard,9,Truck,Divorced,47397,0,43562,600,2
+22,Male,Austin,Standard,0,Motorcycle,Widowed,73967,2,16600,335,0
+56,Male,San Francisco,Premium,8,SUV,Single,110344,4,39022,600,0
+37,Male,Houston,Standard,2,Sedan,Single,102717,1,31142,600,0
+47,Male,Houston,Standard,7,Sedan,Divorced,66667,4,21585,600,1
+18,Male,Chicago,Basic,9,Motorcycle,Married,115504,5,38422,600,1
+36,Male,Los Angeles,Standard,10,Motorcycle,Married,52808,2,46373,600,2
+19,Male,San Francisco,Premium,1,Motorcycle,Single,36712,3,34249,600,1
+64,Male,New York,Standard,4,Truck,Single,70831,2,38811,600,2
+33,Male,Austin,Basic,9,Motorcycle,Divorced,44269,0,43467,600,2
+18,Male,Cleveland,Standard,8,SUV,Divorced,97579,4,24454,409,1
+60,Male,Austin,Basic,6,Sedan,Divorced,106521,2,41581,526,0
+27,Male,Atlanta,Basic,0,Truck,Married,110204,3,18197,368,0
+29,Male,San Francisco,Basic,1,SUV,Widowed,67365,0,8964,600,2
+58,Male,Chicago,Standard,8,Truck,Married,52283,4,36547,317,1
+24,Male,Austin,Premium,6,Truck,Divorced,93685,3,20709,600,1
+55,Male,San Francisco,Standard,7,Motorcycle,Married,34936,5,40917,600,1
+25,Male,Austin,Basic,2,Motorcycle,Widowed,107165,1,21393,600,0
+42,Male,Los Angeles,Basic,6,Sedan,Single,69506,5,5233,600,1
+44,Male,Austin,Premium,6,Motorcycle,Married,62299,0,17059,600,2
+56,Male,Atlanta,Premium,0,SUV,Married,51328,2,47361,600,2
+54,Male,Houston,Standard,2,Motorcycle,Widowed,95116,1,39715,410,0
+20,Male,Houston,Basic,1,SUV,Divorced,87849,5,35424,600,1
+52,Male,New York,Basic,2,Motorcycle,Divorced,91514,0,5081,600,0
+35,Male,Houston,Standard,9,Truck,Divorced,107557,4,40395,221,1
+23,Male,Atlanta,Basic,1,Truck,Widowed,30397,5,10785,403,1
+62,Male,Miami,Premium,3,SUV,Married,90278,3,29773,600,0
+56,Male,Chicago,Premium,3,Sedan,Widowed,61163,3,21561,600,2
+64,Male,Chicago,Basic,9,Sedan,Widowed,46361,2,39023,600,2
+43,Male,San Francisco,Premium,10,SUV,Widowed,119295,4,19045,600,0
+54,Male,Chicago,Basic,2,SUV,Widowed,106599,4,21027,600,1
+47,Male,Atlanta,Basic,3,SUV,Married,96039,5,46266,600,1
+64,Male,Miami,Premium,6,Motorcycle,Divorced,106210,4,10602,600,0
+62,Male,Atlanta,Basic,3,Truck,Widowed,43537,0,13047,600,2
+38,Male,New York,Premium,10,Truck,Divorced,56925,2,46658,600,2
+38,Male,Austin,Premium,3,Motorcycle,Divorced,45285,2,13081,518,2
+33,Male,Houston,Standard,6,Sedan,Widowed,105403,0,42997,354,0
+20,Male,Atlanta,Standard,7,Sedan,Divorced,111161,3,46905,600,0
+45,Male,Orlando,Premium,0,Truck,Widowed,93799,5,28211,448,1
+56,Male,Houston,Premium,10,Sedan,Divorced,60543,3,49507,600,2
+63,Male,Miami,Premium,8,Truck,Single,88202,4,32004,331,1
+50,Male,Cleveland,Basic,8,SUV,Divorced,32880,5,11985,600,1
+49,Male,Cleveland,Standard,10,Motorcycle,Divorced,32993,5,40801,600,1
+29,Male,Houston,Standard,8,SUV,Single,94428,3,9612,396,0
+19,Male,Cleveland,Premium,1,Sedan,Married,113319,5,24250,600,1
+47,Male,San Francisco,Standard,5,SUV,Widowed,96574,1,27343,600,0
+50,Male,Los Angeles,Basic,4,Sedan,Divorced,116456,3,8545,371,0
+47,Male,Atlanta,Basic,9,SUV,Divorced,112648,2,15187,600,0
+36,Male,Miami,Premium,5,Motorcycle,Divorced,95923,2,20096,600,0
+44,Male,Orlando,Basic,5,Motorcycle,Widowed,76654,4,39754,600,1
+63,Male,Chicago,Basic,5,Motorcycle,Widowed,36017,1,27436,537,2
+54,Male,Chicago,Basic,2,Sedan,Married,38432,1,22430,600,2
+59,Male,San Francisco,Basic,5,SUV,Divorced,86982,2,25973,412,0
+41,Male,Los Angeles,Premium,0,SUV,Divorced,110799,4,19556,600,1
+31,Male,San Francisco,Basic,1,Sedan,Divorced,87025,0,5425,600,0
+30,Male,Austin,Premium,4,Motorcycle,Divorced,92235,4,47711,600,1
+18,Male,Atlanta,Basic,0,SUV,Married,62257,3,5030,600,1
+37,Male,Cleveland,Standard,5,Motorcycle,Widowed,103912,0,22192,600,0
+39,Male,New York,Basic,10,Sedan,Divorced,53483,4,32645,585,1
+30,Male,Atlanta,Premium,10,Motorcycle,Single,69117,5,49786,600,1
+35,Male,Chicago,Basic,10,Sedan,Widowed,108782,4,22915,600,1
+63,Male,New York,Basic,6,Sedan,Widowed,79847,2,6447,600,2
+40,Male,New York,Standard,5,Motorcycle,Married,92750,4,47483,600,1
+19,Male,Miami,Premium,10,Motorcycle,Married,85477,2,34164,219,0
+57,Male,Austin,Basic,7,Truck,Married,57753,3,23418,600,2
+46,Male,Atlanta,Basic,8,SUV,Divorced,45821,0,10630,600,2
+61,Male,Miami,Basic,8,SUV,Widowed,90512,3,7381,600,0
+55,Male,Atlanta,Standard,5,Truck,Widowed,89758,4,48764,487,1
+50,Male,Houston,Premium,4,Truck,Single,65565,2,27701,525,2
+62,Male,Austin,Premium,0,Motorcycle,Divorced,45838,0,38600,600,2
+18,Male,Orlando,Standard,0,Motorcycle,Married,61260,2,47366,365,1
+32,Male,New York,Premium,7,Sedan,Single,53905,0,23278,412,2
+49,Male,Austin,Standard,10,Sedan,Divorced,39243,3,24523,600,2
+34,Male,Los Angeles,Basic,10,Motorcycle,Widowed,78847,5,46494,600,1
+57,Male,Austin,Premium,6,Sedan,Divorced,64840,5,17656,600,1
+21,Male,Miami,Basic,3,Motorcycle,Divorced,84404,5,7537,212,1
+30,Male,Houston,Standard,7,Motorcycle,Married,114216,5,10268,600,1
+42,Male,Chicago,Basic,6,Motorcycle,Divorced,53685,4,46140,268,1
+51,Male,Cleveland,Basic,4,SUV,Divorced,49199,5,41385,575,1
+60,Male,Houston,Basic,6,Sedan,Married,69436,1,45039,600,2
+42,Male,New York,Standard,7,Truck,Divorced,92596,4,24745,600,1
+63,Male,Orlando,Standard,0,Sedan,Married,70191,2,9249,372,2
+38,Male,Los Angeles,Basic,10,SUV,Divorced,68189,1,40101,600,2
+63,Male,San Francisco,Basic,3,SUV,Widowed,64766,5,36545,600,1
+19,Male,Cleveland,Standard,10,Motorcycle,Married,101433,1,16349,264,0
+26,Male,Cleveland,Premium,2,Motorcycle,Single,53044,5,30971,591,1
+27,Male,New York,Premium,9,Truck,Single,92470,5,45263,600,1
+53,Male,Miami,Standard,4,Truck,Divorced,76340,1,11916,441,2
+33,Male,Cleveland,Standard,3,Sedan,Widowed,41495,4,8763,600,1
+40,Male,San Francisco,Basic,9,SUV,Married,44528,5,10697,579,1
+35,Male,Houston,Premium,2,Truck,Single,109177,1,10749,600,0
+51,Male,Cleveland,Standard,10,Sedan,Single,117606,2,36593,600,0
+23,Male,San Francisco,Basic,2,Truck,Widowed,50153,0,45327,412,2
+48,Male,New York,Premium,1,Truck,Single,76701,5,20183,600,1
+18,Male,Orlando,Standard,9,Sedan,Single,66011,1,11078,317,0
+28,Male,Houston,Premium,9,SUV,Married,68566,0,22306,299,0
+57,Male,Los Angeles,Premium,2,SUV,Widowed,61195,0,20787,600,2
+47,Male,Miami,Standard,0,Motorcycle,Widowed,75803,3,39692,496,1
+40,Male,Atlanta,Basic,10,Motorcycle,Single,80348,3,32420,600,1
+48,Male,Atlanta,Premium,3,Motorcycle,Single,113331,4,37131,379,0
+56,Male,Cleveland,Basic,4,Motorcycle,Single,81816,3,28599,531,1
+26,Male,San Francisco,Standard,7,Motorcycle,Widowed,82688,0,24200,383,0
+23,Male,Atlanta,Standard,4,SUV,Single,90637,4,29056,600,1
+23,Male,Cleveland,Basic,1,SUV,Divorced,80469,1,27468,600,0
+65,Male,Atlanta,Basic,9,Truck,Married,49944,1,22677,600,2
+56,Male,Cleveland,Standard,8,SUV,Married,107771,2,9354,430,0
+54,Male,Cleveland,Standard,6,SUV,Widowed,96817,5,21283,600,1
+34,Male,San Francisco,Basic,7,Motorcycle,Divorced,32193,1,37893,600,2
+58,Male,Chicago,Standard,9,Motorcycle,Married,113929,2,39832,600,0
+55,Male,Chicago,Premium,9,SUV,Divorced,67477,3,12163,600,2
+53,Male,Los Angeles,Standard,9,Sedan,Married,68646,2,45584,600,2
+51,Male,Miami,Premium,0,Motorcycle,Divorced,106262,1,12244,600,0
+64,Male,Orlando,Standard,10,Truck,Widowed,31393,2,19301,409,2
+21,Male,Austin,Basic,3,Motorcycle,Married,104669,2,37433,600,0
+37,Male,San Francisco,Basic,1,Motorcycle,Divorced,32564,1,23913,600,2
+18,Male,Chicago,Standard,6,SUV,Widowed,83243,0,49990,600,0
+54,Male,New York,Basic,4,Truck,Married,91750,5,41388,480,1
+27,Male,New York,Standard,7,Motorcycle,Widowed,93566,5,45167,600,1
+39,Male,Austin,Basic,1,Truck,Widowed,101325,2,7456,251,0
+43,Male,Miami,Basic,5,Truck,Divorced,108849,4,27521,600,1
+41,Male,Austin,Standard,1,SUV,Widowed,44946,0,5506,600,2
+22,Male,Los Angeles,Standard,2,Motorcycle,Widowed,43693,0,8131,600,2
+44,Male,Chicago,Premium,6,SUV,Widowed,93263,2,47434,600,0
+50,Male,Cleveland,Premium,3,SUV,Married,35046,4,28310,600,2
+30,Male,Houston,Premium,8,Sedan,Divorced,81378,0,29060,408,0
+45,Male,Miami,Premium,1,Motorcycle,Widowed,46235,3,6046,283,2
+65,Male,Los Angeles,Premium,7,Truck,Married,118932,4,15969,600,0
+63,Male,Houston,Premium,4,Sedan,Widowed,64836,5,13503,600,1
+29,Male,Los Angeles,Basic,3,Truck,Divorced,76833,2,18791,600,0
+56,Male,Chicago,Premium,6,Truck,Divorced,115421,2,25595,600,0
+54,Male,New York,Standard,5,Sedan,Divorced,106980,1,6040,600,0
+31,Male,Chicago,Standard,8,SUV,Divorced,80756,1,26614,600,0
+40,Male,Houston,Premium,1,Motorcycle,Married,59108,3,49975,600,1
+32,Male,Chicago,Basic,8,Truck,Married,101490,0,26588,410,0
+39,Male,Los Angeles,Standard,6,Sedan,Divorced,31612,1,24396,600,2
+33,Male,Cleveland,Premium,1,Sedan,Single,98682,3,31666,527,0
+53,Male,Chicago,Premium,10,Motorcycle,Divorced,83223,2,36044,600,0
+42,Male,Miami,Standard,0,Truck,Married,60607,0,30042,600,2
+51,Male,Miami,Basic,6,Motorcycle,Married,96495,4,27548,600,1
+20,Male,Chicago,Premium,3,SUV,Married,52899,2,19780,600,1
+61,Male,Cleveland,Basic,8,Truck,Divorced,86363,4,41070,497,1
+57,Male,San Francisco,Premium,4,Sedan,Widowed,97142,5,6003,365,1
+27,Male,Orlando,Standard,10,Truck,Single,109307,4,33572,600,1
+29,Male,Austin,Standard,4,Sedan,Widowed,112765,2,24088,600,0
+46,Male,Austin,Premium,7,Sedan,Widowed,42566,2,13212,600,2
+60,Male,Los Angeles,Standard,1,Truck,Single,34621,0,22959,600,2
+22,Male,San Francisco,Premium,1,Motorcycle,Widowed,63296,1,6701,600,2
+58,Male,San Francisco,Standard,0,SUV,Single,67072,0,13188,535,2
+23,Male,New York,Premium,8,Sedan,Widowed,98445,2,14915,600,0
+28,Male,Austin,Premium,10,Truck,Widowed,90166,2,35152,600,0
+55,Male,Chicago,Basic,10,SUV,Widowed,62446,5,42793,600,1
+46,Male,Los Angeles,Premium,9,Truck,Widowed,102127,5,48121,530,1
+19,Male,Austin,Basic,5,Sedan,Married,77637,1,23514,600,0
+56,Male,Houston,Basic,6,Sedan,Widowed,93240,0,33782,370,0
+26,Male,Orlando,Basic,9,Truck,Married,52080,5,26736,425,1
+24,Male,Chicago,Standard,10,Motorcycle,Widowed,60311,3,18310,600,1
+44,Male,Austin,Basic,7,Sedan,Widowed,39566,2,10737,600,2
+25,Male,Chicago,Premium,10,Truck,Widowed,66553,4,32114,279,1
+47,Male,San Francisco,Standard,7,Truck,Widowed,53780,0,7910,230,2
+18,Male,San Francisco,Premium,10,Truck,Widowed,54505,3,10086,600,1
+62,Male,Atlanta,Premium,3,Truck,Married,86933,3,10234,600,0
+31,Male,Miami,Standard,3,Sedan,Single,92355,3,13325,600,1
+57,Male,Miami,Basic,10,Truck,Single,83169,5,24363,427,1
+43,Male,Miami,Basic,3,Motorcycle,Divorced,77491,2,22018,600,0
+36,Male,Atlanta,Standard,10,Sedan,Single,102616,4,14426,600,1
+40,Male,Orlando,Premium,4,Truck,Single,40364,2,26717,502,2
+46,Male,Austin,Basic,0,Motorcycle,Single,57893,1,13590,600,2
+37,Male,Orlando,Premium,4,Motorcycle,Single,119980,5,27668,600,1
+33,Male,Austin,Standard,6,Sedan,Widowed,32399,3,16719,600,2
+51,Male,San Francisco,Standard,3,Sedan,Married,119289,3,16344,385,0
+33,Male,Atlanta,Basic,6,SUV,Widowed,78785,2,15387,600,0
+62,Male,Cleveland,Basic,0,Motorcycle,Divorced,66036,5,16287,600,1
+57,Male,Orlando,Basic,2,SUV,Single,110222,3,35033,600,0
+57,Male,New York,Basic,8,Truck,Divorced,106711,3,48461,600,0
+40,Male,Chicago,Standard,6,Motorcycle,Divorced,79093,2,22520,600,0
+65,Male,Atlanta,Premium,0,Truck,Single,78496,5,45954,600,1
+44,Male,New York,Standard,4,Motorcycle,Widowed,107366,0,42225,451,0
+25,Male,Orlando,Standard,2,SUV,Single,89429,1,18462,600,0
+55,Male,San Francisco,Standard,10,Motorcycle,Divorced,80033,0,46637,600,2
+30,Male,Chicago,Basic,3,SUV,Married,38715,5,12165,600,1
+33,Male,Atlanta,Standard,10,Truck,Single,93964,2,45041,600,0
+29,Male,Cleveland,Standard,2,Sedan,Married,50072,3,30535,600,1
+61,Male,Atlanta,Standard,2,Motorcycle,Married,74747,5,37937,571,1
+61,Male,Chicago,Basic,5,Motorcycle,Single,63979,4,5859,474,1
+60,Male,Orlando,Standard,5,SUV,Widowed,59301,0,24021,600,2
+45,Male,Cleveland,Premium,9,SUV,Married,100596,4,40801,600,1
+65,Male,Miami,Standard,2,Truck,Single,48126,2,20809,600,2
+32,Male,Miami,Premium,7,Sedan,Married,38322,3,29823,442,1
+28,Male,Los Angeles,Premium,2,Motorcycle,Married,86475,2,33614,600,0
+29,Male,San Francisco,Premium,3,Truck,Married,93187,0,34294,600,0
+48,Male,Los Angeles,Premium,1,SUV,Widowed,31354,1,37157,600,2
+23,Male,Orlando,Basic,1,Truck,Divorced,67064,0,11174,600,0
+28,Male,Atlanta,Basic,5,Sedan,Divorced,116111,3,45111,600,0
+44,Male,Austin,Standard,6,Truck,Widowed,81159,4,41500,526,1
+36,Male,Cleveland,Premium,8,SUV,Married,94724,5,16135,516,1
+27,Male,San Francisco,Standard,9,SUV,Single,45306,4,32515,600,1
+18,Male,Atlanta,Standard,3,Sedan,Divorced,54936,0,19006,600,2
+25,Male,Orlando,Standard,7,SUV,Widowed,86094,3,40437,600,1
+58,Male,Houston,Standard,6,Sedan,Single,64043,3,9066,600,2
+48,Male,Orlando,Standard,2,Sedan,Married,117390,2,21469,600,0
+60,Male,Austin,Premium,3,Motorcycle,Married,54919,1,29761,600,2
+41,Male,Houston,Premium,6,Motorcycle,Married,107464,0,14989,563,0
+51,Male,Atlanta,Basic,8,SUV,Widowed,32769,2,22587,600,2
+47,Male,New York,Premium,10,Motorcycle,Widowed,58416,1,43457,600,2
+24,Male,Orlando,Basic,0,SUV,Divorced,104085,4,7294,600,1
+33,Male,Los Angeles,Premium,8,Truck,Widowed,95729,4,6794,469,1
+55,Male,Los Angeles,Basic,4,Sedan,Single,39195,3,44232,578,2
+34,Male,Los Angeles,Standard,4,Motorcycle,Single,88794,0,46281,600,0
+54,Male,Chicago,Basic,10,SUV,Single,36896,3,38837,600,2
+44,Male,New York,Standard,10,Sedan,Widowed,96129,0,13174,600,0
+25,Male,Chicago,Basic,2,SUV,Married,87951,5,9855,600,1
+26,Male,Miami,Premium,3,SUV,Single,41529,5,17809,600,1
+27,Male,Orlando,Basic,1,SUV,Widowed,37848,0,49465,600,2
+44,Male,Chicago,Basic,4,SUV,Single,116072,0,38814,600,0
+62,Male,Orlando,Standard,4,Sedan,Single,77847,5,26985,540,1
+63,Male,Atlanta,Standard,1,Sedan,Widowed,35355,5,46618,600,1
+21,Male,Chicago,Standard,0,Motorcycle,Single,47221,5,28784,600,1
+65,Male,Chicago,Standard,1,Sedan,Married,36233,0,32787,600,2
+44,Male,New York,Premium,1,Sedan,Widowed,43694,3,13445,600,2
+63,Male,Los Angeles,Basic,0,Sedan,Married,53461,5,22343,600,1
+22,Male,Austin,Basic,2,Motorcycle,Single,115999,0,37400,600,0
+25,Male,New York,Standard,5,Sedan,Single,62086,5,45917,600,1
+44,Male,Miami,Basic,9,SUV,Divorced,89684,4,7702,600,1
+22,Male,Austin,Standard,1,SUV,Widowed,32690,4,45154,600,1
+27,Male,Cleveland,Basic,1,Sedan,Divorced,93399,5,35975,600,1
+43,Male,Houston,Premium,1,SUV,Married,82011,0,6846,600,0
+45,Male,New York,Premium,7,SUV,Widowed,33333,1,43847,600,2
+20,Male,Atlanta,Standard,6,Motorcycle,Single,33595,1,38811,600,2
+31,Male,San Francisco,Standard,4,SUV,Divorced,79869,2,6884,600,0
+32,Male,Los Angeles,Standard,2,Truck,Widowed,93009,1,13989,227,0
+63,Male,Austin,Standard,10,SUV,Married,111375,2,10743,391,0
+24,Male,New York,Basic,1,Sedan,Married,53316,4,16986,600,1
+28,Male,San Francisco,Basic,2,Sedan,Widowed,30399,3,19429,432,1
+55,Male,Houston,Premium,3,Sedan,Widowed,40734,4,33038,395,2
+19,Male,Austin,Basic,5,SUV,Single,103766,3,13788,600,0
+38,Male,Houston,Standard,1,Motorcycle,Widowed,116286,0,26466,600,0
+44,Male,Austin,Premium,9,Sedan,Divorced,118847,1,5410,600,0
+64,Male,Austin,Basic,10,Truck,Single,68398,3,48729,497,2
+36,Male,Cleveland,Basic,6,Sedan,Married,36255,1,47052,298,2
+60,Male,Miami,Basic,5,Truck,Divorced,48326,2,42739,600,2
+42,Male,Cleveland,Premium,2,SUV,Divorced,84552,1,9652,600,0
+44,Male,Cleveland,Basic,3,Truck,Married,45401,3,35596,503,2
+37,Male,Houston,Basic,0,Sedan,Single,42708,5,26188,600,1
